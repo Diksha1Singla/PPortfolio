@@ -10,8 +10,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Diksha1Singla",
-  resume:
-    "https://drive.google.com/file/d/17RjyuFwsELCdaDnE7eM15Ur_cysNbaA9/view?usp=sharing",
+  resume:"https://drive.google.com/file/d/1h8wCtEGmwNvaidW6SNf14z-X3iBbXaap/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/diksha1singla",
   twitter: "",
   insta: "",
