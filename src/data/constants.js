@@ -180,7 +180,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Diksha1Singla/SOCH.git",
-    webapp: "",
+    webapp: "https://diksha1singla.github.io/SOCH/",
   },
   {
     id: 0,
@@ -192,7 +192,7 @@ export const projects = [
     tags: ["React Js","JavaScript","API"],
     category: "web app",
     github: "https://github.com/Diksha1Singla/BookSearch.git",
-    webapp: "",
+    webapp: "https://github.com/Diksha1Singla/BookSearch.git",
   },
   {
     id: 1,
@@ -208,7 +208,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Diksha1Singla/SearchData.git",
-    webapp: "",
+    webapp: "https://github.com/Diksha1Singla/SearchData.git"",
   },
   {
     id: 2,
@@ -220,7 +220,7 @@ export const projects = [
     tags: ["MERN Stack"],
     category: "web app",
     github: "https://github.com/Diksha1Singla/CloudBook.git",
-    webapp: "",
+    webapp: ""https://github.com/Diksha1Singla/CloudBook.git",",
   },
   {
     id: 10,
@@ -232,7 +232,7 @@ export const projects = [
     tags: ["React JS", "API"],
     category: "web app",
     github: "https://github.com/Diksha1Singla/NewsApp.git",
-    webapp: "",
+    webapp: "https://github.com/Diksha1Singla/NewsApp.git",
   }  
 ];
 
