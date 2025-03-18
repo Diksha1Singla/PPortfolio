@@ -168,20 +168,7 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 9,
-    title: "SOCH",
-    // date: "Jun 2024 - Jul 2024",
-    description:
-      "SOCH is a NGO with a mission to stop child labour and  protect and promote the rights of children.",
-    image:require("../assets/Dproject3.jpg"),
-    tags: [
-      "REACTJS"
-    ],
-    category: "web app",
-    github: "https://github.com/Diksha1Singla/SOCH.git",
-    webapp: "https://diksha1singla.github.io/SOCH/",
-  },
+ 
   {
     id: 0,
     title: "Book Search",
@@ -233,7 +220,21 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Diksha1Singla/NewsApp.git",
     webapp: "https://github.com/Diksha1Singla/NewsApp.git",
-  }  
+  } ,
+  {
+    id: 9,
+    title: "SOCH",
+    // date: "Jun 2024 - Jul 2024",
+    description:
+      "SOCH is a NGO with a mission to stop child labour and  protect and promote the rights of children.",
+    image:require("../assets/Dproject3.jpg"),
+    tags: [
+      "REACTJS"
+    ],
+    category: "web app",
+    github: "https://github.com/Diksha1Singla/SOCH.git",
+    webapp: "https://diksha1singla.github.io/SOCH/",
+  }
 ];
 
 // export const TimeLineData = [

@@ -17,7 +17,6 @@ const Button = styled.button`
 `
 const Card = styled.div`
     width: 330px;
-    height: 490px;
     background-color: ${({ theme }) => theme.card};
     cursor: pointer;
     border-radius: 10px;
@@ -39,8 +38,7 @@ const Card = styled.div`
 `
 
 const Image = styled.img`
-    width: 100%;
-    height: 100%;
+    object-fit: cover;
     background-color: ${({ theme }) => theme.white};
     border-radius: 10px;
     box-shadow: 0 0 16px 2px rgba(0,0,0,0.3);
@@ -62,6 +60,7 @@ const Tag = styled.span`
     background-color: ${({ theme }) => theme.primary + 15};
     padding: 2px 8px;
     border-radius: 10px;
+    cursor: pointer;
 `
 
 const Details = styled.div`
