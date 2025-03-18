@@ -10,7 +10,8 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Diksha1Singla",
-  resume:"hhttps://drive.google.com/drive/folders/10PQLPJ9HHxP7ueYoD74AxAzamanLYCyb?usp=sharing",
+  resume:
+    "https://drive.google.com/file/d/17RjyuFwsELCdaDnE7eM15Ur_cysNbaA9/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/diksha1singla",
   twitter: "",
   insta: "",
@@ -168,7 +169,20 @@ export const education = [
 ];
 
 export const projects = [
- 
+  {
+    id: 9,
+    title: "SOCH",
+    // date: "Jun 2024 - Jul 2024",
+    description:
+      "SOCH is a NGO with a mission to stop child labour and  protect and promote the rights of children.",
+    image:require("../assets/Dproject3.jpg"),
+    tags: [
+      "REACTJS"
+    ],
+    category: "web app",
+    github: "https://github.com/Diksha1Singla/SOCH.git",
+    webapp: "https://diksha1singla.github.io/SOCH/",
+  },
   {
     id: 0,
     title: "Book Search",
@@ -220,21 +234,7 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Diksha1Singla/NewsApp.git",
     webapp: "https://github.com/Diksha1Singla/NewsApp.git",
-  } ,
-  {
-    id: 9,
-    title: "SOCH",
-    // date: "Jun 2024 - Jul 2024",
-    description:
-      "SOCH is a NGO with a mission to stop child labour and  protect and promote the rights of children.",
-    image:require("../assets/Dproject3.jpg"),
-    tags: [
-      "REACTJS"
-    ],
-    category: "web app",
-    github: "https://github.com/Diksha1Singla/SOCH.git",
-    webapp: "https://diksha1singla.github.io/SOCH/",
-  }
+  }  
 ];
 
 // export const TimeLineData = [
