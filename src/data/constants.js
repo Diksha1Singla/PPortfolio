@@ -118,6 +118,11 @@ export const skills = [
         name: "Postman",
         image:"https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png",
       },
+      {
+        name: "Google Earth Engine Code editor",
+        image:"https://earthengine.google.com/static/images/earth-engine-logo.png",
+      },
+
     ],
   },
 ];
@@ -182,6 +187,18 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Diksha1Singla/SOCH.git",
     webapp: "https://diksha1singla.github.io/SOCH/",
+  },
+  {
+    id: 6,
+    title: "Live Chat App",
+    // date: "Jan 2023 - Mar 2023",
+    description:
+      "A real-time chat app with seamless instant messaging using Socket.io for bi-directional communication.",
+    image:require("../assets/Img1.png"),
+    tags: ["MERN Stack","Socket-io"],
+    category: "web app",
+    github: "https://github.com/Diksha1Singla/CHATAPP.git",
+    webapp: "https://github.com/Diksha1Singla/CHATAPP.git",
   },
   {
     id: 0,

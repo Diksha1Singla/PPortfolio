@@ -40,6 +40,7 @@ margin-top: 20px;
 `;
 
 export const Desc = styled.div`
+    background: linear-gradient(343.07deg, rgba(132, 59, 206, 0.97) 5.71%, rgba(132, 59, 206, 0) 64.83%);
     font-size: 18px;
     text-align: center;
     max-width: 600px;
