@@ -143,7 +143,7 @@ const Contact = () => {
 
   return (
     <Container>
-      <Wrapper>
+      {/* <Wrapper>
         <Title>Contact</Title>
         <Desc>Feel free to reach out to me for any questions or opportunities!</Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
@@ -161,7 +161,7 @@ const Contact = () => {
           message="Email sent successfully!"
           severity="success"
         />
-      </Wrapper>
+      </Wrapper> */}
     </Container>
   )
 }

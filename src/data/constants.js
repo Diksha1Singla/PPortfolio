@@ -12,7 +12,7 @@ export const Bio = {
   github: "https://github.com/Diksha1Singla",
   resume:
     "https://drive.google.com/file/d/17RjyuFwsELCdaDnE7eM15Ur_cysNbaA9/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/diksha1singla",
+  linkedin: "https://www.linkedin.com/in/DikshaSingla123/",
   twitter: "",
   insta: "",
   facebook: "",
