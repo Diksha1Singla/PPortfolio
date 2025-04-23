@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/PPortfolio/static/css/main.bf538fe7.css",
-    "main.js": "/PPortfolio/static/js/main.5600996f.js",
+    "main.js": "/PPortfolio/static/js/main.df0771cd.js",
     "static/media/Dproject5.png": "/PPortfolio/static/media/Dproject5.65264364720ba2b19616.png",
     "static/media/Dproject2.jpeg": "/PPortfolio/static/media/Dproject2.f9bcc5aaaed3bc430c9a.jpeg",
     "static/media/Dproject3.jpg": "/PPortfolio/static/media/Dproject3.b3f295b0bde003bbc4e6.jpg",
     "static/media/Dprofile4.png": "/PPortfolio/static/media/Dprofile4.936e197fbf728c606348.png",
     "static/media/Img1.png": "/PPortfolio/static/media/Img1.5f7f083222a65f3069f4.png",
-    "static/media/HeroImage.jpg": "/PPortfolio/static/media/HeroImage.b919f4389a23165f7db5.jpg",
+    "static/media/HeroImage.jpg": "/PPortfolio/static/media/HeroImage.6be2cda45f77be0d3446.jpg",
     "static/media/Dproject1.jpg": "/PPortfolio/static/media/Dproject1.ccd493ec3a4e9e6a878f.jpg",
     "static/media/HackTU.jpg": "/PPortfolio/static/media/HackTU.a6c8436a279d25e1b8f2.jpg",
     "index.html": "/PPortfolio/index.html",
     "main.bf538fe7.css.map": "/PPortfolio/static/css/main.bf538fe7.css.map",
-    "main.5600996f.js.map": "/PPortfolio/static/js/main.5600996f.js.map"
+    "main.df0771cd.js.map": "/PPortfolio/static/js/main.df0771cd.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.5600996f.js"
+    "static/js/main.df0771cd.js"
   ]
 }
